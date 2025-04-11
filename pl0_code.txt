@@ -1,0 +1,8 @@
+begin
+    var x, y;
+    x := 10;
+    y := 20;
+    if x < y then
+        write x;
+    end
+end.
